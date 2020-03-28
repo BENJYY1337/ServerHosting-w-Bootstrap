@@ -11,25 +11,13 @@
 }
 
 .foot_bot{
-    margin-top: 1.5cm;
+    margin-top: 2.5cm;
 }
 
 .all_card{
     display: flex;
     justify-content: center;
     margin-top: 2cm;
-}
-
-.card1{
-    margin-right: 2cm;
-}
-
-.card2{
-    margin-right: 2cm;
-}
-
-.card3{
-    margin-right: 0;
 }
 
 .pos_button{
